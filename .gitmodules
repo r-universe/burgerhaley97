@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "cdlsim"]
+	path = cdlsim
+	url = https://github.com/burgerhaley97/cdlsim
